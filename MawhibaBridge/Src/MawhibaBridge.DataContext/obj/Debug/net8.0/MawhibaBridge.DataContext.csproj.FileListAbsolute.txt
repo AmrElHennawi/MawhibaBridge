@@ -1,0 +1,36 @@
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.deps.json
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.runtimeconfig.json
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.dll
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.pdb
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.Entities.dll
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.Entities.pdb
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.csproj.AssemblyReference.cache
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.AssemblyInfoInputs.cache
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.AssemblyInfo.cs
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.sourcelink.json
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaB.A16E65F1.Up2Date
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.dll
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\refint\MawhibaBridge.DataContext.dll
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.pdb
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.genruntimeconfig.cache
+C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\MawhibaBridge.DataContext\obj\Debug\net8.0\ref\MawhibaBridge.DataContext.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.deps.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.runtimeconfig.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.DataContext.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\bin\Debug\net8.0\MawhibaBridge.Entities.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.csproj.AssemblyReference.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.AssemblyInfoInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.AssemblyInfo.cs
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.sourcelink.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaB.A16E65F1.Up2Date
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\refint\MawhibaBridge.DataContext.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\MawhibaBridge.DataContext.genruntimeconfig.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.DataContext\obj\Debug\net8.0\ref\MawhibaBridge.DataContext.dll

@@ -20,3 +20,25 @@ C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridg
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\ref\MawhibaBridge.Application.dll
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Helpers.dll
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Helpers.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Application.deps.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Application.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Application.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.DataAccess.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.DataContext.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Helpers.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.DataAccess.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Helpers.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.DataContext.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\bin\Debug\net8.0\MawhibaBridge.Entities.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.csproj.AssemblyReference.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.AssemblyInfoInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.AssemblyInfo.cs
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.sourcelink.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaB.BA50406A.Up2Date
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\refint\MawhibaBridge.Application.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\MawhibaBridge.Application.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Application\obj\Debug\net8.0\ref\MawhibaBridge.Application.dll

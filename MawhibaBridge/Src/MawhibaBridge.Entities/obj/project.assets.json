@@ -815,24 +815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amr.kelhennawi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Amr Khaled\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
       "projectName": "MawhibaBridge.Entities",
-      "projectPath": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
-      "packagesPath": "C:\\Users\\amr.kelhennawi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\obj\\",
+      "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
+      "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\amr.kelhennawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -840,7 +835,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -885,7 +879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

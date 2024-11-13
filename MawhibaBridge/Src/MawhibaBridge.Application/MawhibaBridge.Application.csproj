@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MawhibaBridge.DataAccess\MawhibaBridge.DataAccess.csproj" />
+    <ProjectReference Include="..\MawhibaBridge.DataAccess\MawhibaBridge.DataAccess.csproj" />
     <ProjectReference Include="..\MawhibaBridge.Helpers\MawhibaBridge.Helpers.csproj" />
   </ItemGroup>
 

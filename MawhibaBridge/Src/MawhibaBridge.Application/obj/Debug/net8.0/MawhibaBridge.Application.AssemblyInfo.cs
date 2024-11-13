@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MawhibaBridge.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7247cb23bcbebbe46397f35d63d173ca03ba5a42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c5004cfeb4dde4b8597a53528ab33c0a2ee758")]
 [assembly: System.Reflection.AssemblyProductAttribute("MawhibaBridge.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MawhibaBridge.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

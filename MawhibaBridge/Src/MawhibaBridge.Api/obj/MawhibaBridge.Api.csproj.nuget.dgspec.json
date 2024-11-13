@@ -1,0 +1,442 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+        "projectName": "MawhibaBridge.Api",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj": {
+                "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj",
+        "projectName": "MawhibaBridge.Application",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\MawhibaBridge.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\MawhibaBridge.DataAccess.csproj"
+              },
+              "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\MawhibaBridge.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\MawhibaBridge.DataAccess.csproj",
+        "projectName": "MawhibaBridge.DataAccess",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\MawhibaBridge.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj": {
+                "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj",
+        "projectName": "MawhibaBridge.DataContext",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.DataContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj": {
+                "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
+        "projectName": "MawhibaBridge.Entities",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj",
+        "projectName": "MawhibaBridge.Helpers",
+        "projectPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Amr Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amr Khaled\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amr Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

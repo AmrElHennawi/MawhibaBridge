@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.Api", "MawhibaBridge.Api\MawhibaBridge.Api.csproj", "{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.Api", "Src\MawhibaBridge.Api\MawhibaBridge.Api.csproj", "{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{1A309B2B-E504-4A99-9FC7-8A88B9E6B600}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.Entities", "Src\MawhibaBridge.Entities\MawhibaBridge.Entities.csproj", "{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.DataContext", "MawhibaBridge.DataContext\MawhibaBridge.DataContext.csproj", "{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.DataContext", "Src\MawhibaBridge.DataContext\MawhibaBridge.DataContext.csproj", "{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.DataAccess", "MawhibaBridge.DataAccess\MawhibaBridge.DataAccess.csproj", "{300DBDA9-E556-4D88-ADC8-097E750B0AD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.DataAccess", "Src\MawhibaBridge.DataAccess\MawhibaBridge.DataAccess.csproj", "{300DBDA9-E556-4D88-ADC8-097E750B0AD8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MawhibaBridge.Application", "Src\MawhibaBridge.Application\MawhibaBridge.Application.csproj", "{E91613E7-303E-4212-B536-E16FEC44E494}"
 EndProject

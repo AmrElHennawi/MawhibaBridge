@@ -11,3 +11,16 @@ C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridg
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\refint\MawhibaBridge.Entities.dll
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.pdb
 C:\Users\amr.kelhennawi\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\ref\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\bin\Debug\net8.0\MawhibaBridge.Entities.deps.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\bin\Debug\net8.0\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\bin\Debug\net8.0\MawhibaBridge.Entities.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.csproj.AssemblyReference.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.AssemblyInfoInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.AssemblyInfo.cs
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.sourcelink.json
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\refint\MawhibaBridge.Entities.dll
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\MawhibaBridge.Entities.pdb
+C:\Users\Amr Khaled\Desktop\Programming\My-Github\MawhibaBridge\MawhibaBridge\Src\MawhibaBridge.Entities\obj\Debug\net8.0\ref\MawhibaBridge.Entities.dll
