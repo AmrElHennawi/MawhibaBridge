@@ -1,0 +1,49 @@
+﻿using MawhibaBridge.Entities.Models;
+using MawhibaBridge.Helpers.Settings;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+
+namespace MawhibaBridge.Application.Services.implementations
+{
+    public class TokenService
+    {
+        private readonly UserManager<AppUser> _userManager;
+        private readonly JwtSettings _jwtSettings;
+
+        public TokenService(UserManager<AppUser> userManager, IOptions<JwtSettings> jwtSettings)
+        {
+            _userManager = userManager;
+            _jwtSettings = jwtSettings.Value;
+        }
+
+        public async Task<string> GenerateToken(AppUser user, bool rememberMe)
+        {
+            var roles = await _userManager.GetRolesAsync(user);
+            var roleClaims = roles.Select(role => new Claim(ClaimTypes.Role, role));
+            var claims = new[]
+            {
+                new Claim(ClaimTypes.NameIdentifier, user.Id),
+            }.Union(roleClaims);
+
+            var securityKey = _jwtSettings.SecretKey;
+            int numberOfDaysToExpire = rememberMe ? 30 : 1;
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(securityKey));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(
+                claims: claims,
+                signingCredentials: creds,
+                expires: DateTime.Now.AddDays(numberOfDaysToExpire)
+                );
+
+            var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
+
+            return tokenString;
+        }
+
+    }
+}

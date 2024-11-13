@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477E0790-739C-4CC9-A9A0-D0A5F5FF932A}|Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\src\\mawhibabridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E0790-739C-4CC9-A9A0-D0A5F5FF932A}|Src\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj|solutionrelative:src\\mawhibabridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\Src\\MawhibaBridge.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\Src\\MawhibaBridge.Api\\Program.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:41:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-11T07:37:09.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

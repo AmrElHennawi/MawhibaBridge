@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.entities\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|solutionrelative:src\\mawhibabridge.entities\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.entities\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|solutionrelative:src\\mawhibabridge.entities\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}|MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.datacontext\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}|MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj|solutionrelative:mawhibabridge.datacontext\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49CA25F-C9F9-4CF3-889A-6140DA3AD85C}|Src\\MawhibaBridge.Entities\\MawhibaBridge.Entities.csproj|solutionrelative:src\\mawhibabridge.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.application\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|solutionrelative:src\\mawhibabridge.application\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|solutionrelative:src\\mawhibabridge.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|solutionrelative:mawhibabridge.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|solutionrelative:src\\mawhibabridge.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|solutionrelative:mawhibabridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.application\\services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|solutionrelative:src\\mawhibabridge.application\\services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91613E7-303E-4212-B536-E16FEC44E494}|Src\\MawhibaBridge.Application\\MawhibaBridge.Application.csproj|solutionrelative:src\\mawhibabridge.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|solutionrelative:mawhibabridge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165413CA-12AE-43EE-921E-73AA6294386B}|Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\src\\mawhibabridge.helpers\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165413CA-12AE-43EE-921E-73AA6294386B}|Src\\MawhibaBridge.Helpers\\MawhibaBridge.Helpers.csproj|solutionrelative:src\\mawhibabridge.helpers\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.api\\mawhibabridge.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08DE5572-4234-45FD-A8D0-DCC6DC9B02ED}|MawhibaBridge.Api\\MawhibaBridge.Api.csproj|solutionrelative:mawhibabridge.api\\mawhibabridge.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}|MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj|c:\\users\\amr.kelhennawi\\desktop\\programming\\my-github\\mawhibabridge\\mawhibabridge\\mawhibabridge.datacontext\\migrations\\20241111103734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E2AB7E-1FB6-4806-B710-70FA7A6FB112}|MawhibaBridge.DataContext\\MawhibaBridge.DataContext.csproj|solutionrelative:mawhibabridge.datacontext\\migrations\\20241111103734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Entities\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\Section.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Entities\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:07:24.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Entities\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\Course.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Entities\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:55:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241111123026_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs",
+              "RelativeDocumentMoniker": "MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs",
+              "RelativeToolTip": "MawhibaBridge.DataContext\\Migrations\\20241111123026_AddRoles.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:30:26.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\implementations\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Application\\Services\\implementations\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\implementations\\AuthenticationService.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Application\\Services\\implementations\\AuthenticationService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAASwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:55:44.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MawhibaBridge.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\appsettings.json",
+              "RelativeToolTip": "MawhibaBridge.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T10:30:57.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Entities\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Entities\\Models\\AppUser.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Entities\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:02:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "MawhibaBridge.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "MawhibaBridge.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADgvyUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:54:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:58:02.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "MawhibaBridge.DataContext\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Context\\DBContext.cs",
+              "RelativeToolTip": "MawhibaBridge.DataContext\\Context\\DBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:19:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MawhibaBridge.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\Program.cs",
+              "RelativeToolTip": "MawhibaBridge.Api\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwDYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:16:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:11:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:59:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\implementations\\TokenService.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Application\\Services\\implementations\\TokenService.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Application\\Services\\implementations\\TokenService.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Application\\Services\\implementations\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:17:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Src\\MawhibaBridge.Helpers\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\Src\\MawhibaBridge.Helpers\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Src\\MawhibaBridge.Helpers\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:20:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MawhibaBridge.Api",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+              "RelativeDocumentMoniker": "MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+              "RelativeToolTip": "MawhibaBridge.Api\\MawhibaBridge.Api.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T10:44:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241111103734_init.cs",
+              "DocumentMoniker": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Migrations\\20241111103734_init.cs",
+              "RelativeDocumentMoniker": "MawhibaBridge.DataContext\\Migrations\\20241111103734_init.cs",
+              "ToolTip": "C:\\Users\\amr.kelhennawi\\Desktop\\Programming\\My-Github\\MawhibaBridge\\MawhibaBridge\\MawhibaBridge.DataContext\\Migrations\\20241111103734_init.cs",
+              "RelativeToolTip": "MawhibaBridge.DataContext\\Migrations\\20241111103734_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:37:35.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
