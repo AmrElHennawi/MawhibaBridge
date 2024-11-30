@@ -12,14 +12,29 @@ namespace MawhibaBridge.Entities.Models
         public string CourseName { get; set; }
 
         [Required]
-        public string? Description { get; set; }
+        [MaxLength(500)]
+        public string Description { get; set; }
 
         [Required]
+        [MaxLength(500)]
         public string Content { get; set; }
 
-        public string? Courseimage {  get; set; }
+        public string? CourseCover {  get; set; }
 
-        public DateTime CreatedDate { get; set; } = DateTime.Now;
+        [Required]
+        public decimal TotalCourseHours { get; set; }
+
+        [Required]
+        public int CourseTypeId { get; set;}
+
+        [DataType(DataType.DateTime)]
+        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
+
+        public CourseType CourseType { get; set; }
+
+        public ICollection<Instructor> Instructors { get; set; }
+        public ICollection<Enrollment> Enrollments { get; set; }
+        public ICollection<Section> Sections { get; set; }
 
     }
 }

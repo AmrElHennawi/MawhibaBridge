@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MawhibaBridge.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c5004cfeb4dde4b8597a53528ab33c0a2ee758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+910c076d70b8a3248e8ad0d5b1a4074d7a8d87f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MawhibaBridge.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MawhibaBridge.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -59,6 +59,9 @@ namespace MawhibaBridge.DataContext.Migrations
                     b.Property<bool>("IsActive")
                         .HasColumnType("bit");
 
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasMaxLength(50)
@@ -119,6 +122,255 @@ namespace MawhibaBridge.DataContext.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Comment", b =>
+                {
+                    b.Property<int>("CommentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CommentId"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<DateTime>("PostedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("SectionId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("StudentId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("CommentId");
+
+                    b.HasIndex("SectionId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Comments");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Course", b =>
+                {
+                    b.Property<int>("CourseId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("CourseCover")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CourseName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<int>("CourseTypeId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<decimal>("TotalCourseHours")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("CourseId");
+
+                    b.HasIndex("CourseTypeId")
+                        .IsUnique();
+
+                    b.ToTable("Courses");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.CourseType", b =>
+                {
+                    b.Property<int>("CourseTypeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseTypeId"));
+
+                    b.Property<string>("Type")
+                        .IsRequired()
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
+
+                    b.HasKey("CourseTypeId");
+
+                    b.ToTable("CourseTypes");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Enrollment", b =>
+                {
+                    b.Property<int>("EnrollmentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EnrollmentId"));
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("EnrollmentDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("StudentId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("EnrollmentId");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("Enrollments");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Instructor", b =>
+                {
+                    b.Property<int>("CourseId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
+
+                    b.Property<int>("CourseId1")
+                        .HasColumnType("int");
+
+                    b.Property<string>("CourseInstructorId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("InstructorId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("CourseId");
+
+                    b.HasIndex("CourseId1");
+
+                    b.HasIndex("CourseInstructorId");
+
+                    b.ToTable("Instructors");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Reply", b =>
+                {
+                    b.Property<int>("ReplyId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ReplyId"));
+
+                    b.Property<int>("CommentId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<DateTime>("PostedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("StudentId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ReplyId");
+
+                    b.HasIndex("CommentId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Replies");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Section", b =>
+                {
+                    b.Property<int>("SectionId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SectionId"));
+
+                    b.Property<string>("AttachedFile")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContentFile")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("SectionTitle")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("SectionId");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("Sections");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.SectionSeen", b =>
+                {
+                    b.Property<int>("SectionSeenId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SectionSeenId"));
+
+                    b.Property<DateTime>("DateSeen")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("EnrollmentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SectionId")
+                        .HasColumnType("int");
+
+                    b.HasKey("SectionSeenId");
+
+                    b.HasIndex("EnrollmentId");
+
+                    b.HasIndex("SectionId");
+
+                    b.ToTable("SectionSeens");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
                     b.Property<string>("Id")
@@ -155,8 +407,8 @@ namespace MawhibaBridge.DataContext.Migrations
                         new
                         {
                             Id = "2",
-                            Name = "Hr",
-                            NormalizedName = "HR"
+                            Name = "Teacher",
+                            NormalizedName = "TEACHER"
                         },
                         new
                         {
@@ -272,6 +524,123 @@ namespace MawhibaBridge.DataContext.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Comment", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Section", "Section")
+                        .WithMany("Comments")
+                        .HasForeignKey("SectionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MawhibaBridge.Entities.Models.AppUser", "User")
+                        .WithMany("Comments")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Section");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Course", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.CourseType", "CourseType")
+                        .WithOne("Course")
+                        .HasForeignKey("MawhibaBridge.Entities.Models.Course", "CourseTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("CourseType");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Enrollment", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Course", "Course")
+                        .WithMany("Enrollments")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MawhibaBridge.Entities.Models.AppUser", "Student")
+                        .WithMany("Enrollments")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Instructor", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Course", "Course")
+                        .WithMany("Instructors")
+                        .HasForeignKey("CourseId1")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MawhibaBridge.Entities.Models.AppUser", "CourseInstructor")
+                        .WithMany("Instructors")
+                        .HasForeignKey("CourseInstructorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("CourseInstructor");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Reply", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Comment", "Comment")
+                        .WithMany("Replies")
+                        .HasForeignKey("CommentId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("MawhibaBridge.Entities.Models.AppUser", "User")
+                        .WithMany("Replies")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Comment");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Section", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Course", "Course")
+                        .WithMany("Sections")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.SectionSeen", b =>
+                {
+                    b.HasOne("MawhibaBridge.Entities.Models.Enrollment", "Enrollment")
+                        .WithMany("SeenSections")
+                        .HasForeignKey("EnrollmentId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("MawhibaBridge.Entities.Models.Section", "Section")
+                        .WithMany("SeenByStudents")
+                        .HasForeignKey("SectionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Enrollment");
+
+                    b.Navigation("Section");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -321,6 +690,49 @@ namespace MawhibaBridge.DataContext.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.AppUser", b =>
+                {
+                    b.Navigation("Comments");
+
+                    b.Navigation("Enrollments");
+
+                    b.Navigation("Instructors");
+
+                    b.Navigation("Replies");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Comment", b =>
+                {
+                    b.Navigation("Replies");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Course", b =>
+                {
+                    b.Navigation("Enrollments");
+
+                    b.Navigation("Instructors");
+
+                    b.Navigation("Sections");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.CourseType", b =>
+                {
+                    b.Navigation("Course")
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Enrollment", b =>
+                {
+                    b.Navigation("SeenSections");
+                });
+
+            modelBuilder.Entity("MawhibaBridge.Entities.Models.Section", b =>
+                {
+                    b.Navigation("Comments");
+
+                    b.Navigation("SeenByStudents");
                 });
 #pragma warning restore 612, 618
         }

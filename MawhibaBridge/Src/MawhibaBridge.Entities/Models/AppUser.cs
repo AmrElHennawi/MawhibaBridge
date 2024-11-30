@@ -14,6 +14,7 @@ namespace MawhibaBridge.Entities.Models
         [MaxLength(50)]
         public string LastName { get; set; }
 
+        [Range(typeof(int),"0","100")]
         public int? Age { get; set; }
 
         [MaxLength(255)]
@@ -31,5 +32,18 @@ namespace MawhibaBridge.Entities.Models
 
         [Required]
         public bool IsActive { get; set; } = true;
+
+        [Required]
+        public bool IsDeleted { get; set; } = false;
+
+        public ICollection<Instructor> Instructors { get; set; }
+
+        public ICollection<Enrollment> Enrollments { get; set; }
+
+        public ICollection<Comment> Comments { get; set; }
+
+        public ICollection<Reply> Replies { get; set; }
+
+        public ICollection<RefreshToken> RefreshTokens { get; set; }
     }
 }
